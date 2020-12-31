@@ -1,8 +1,11 @@
 import React from 'react';
 import { Line } from 'react-chartjs-2';
+import PropTypes from 'prop-types';
 
 const Chart = ({ arrData }) => {
-  const formatData = (itemCondition, ifCondition, elem) => arrData.reduce((acc, cur) => ((cur[itemCondition] === ifCondition) ? [...acc, cur[elem]] : acc), []);
+  const formatData = (itemCondition, ifCondition, elem) => arrData.reduce((acc, cur) => (
+    (cur[itemCondition] === ifCondition) ? [...acc, cur[elem]] : acc
+  ), []);
 
   return (
     <div>
@@ -72,6 +75,10 @@ const Chart = ({ arrData }) => {
       />
     </div>
   );
+};
+
+Chart.propTypes = {
+  arrData: PropTypes.array.isRequired,
 };
 
 export default Chart;
