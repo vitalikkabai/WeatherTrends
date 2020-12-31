@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FastRewordsSecondTest/static/css/main.b3e519e8.chunk.css",
+    "main.js": "/FastRewordsSecondTest/static/js/main.b7335d12.chunk.js",
+    "main.js.map": "/FastRewordsSecondTest/static/js/main.b7335d12.chunk.js.map",
+    "runtime-main.js": "/FastRewordsSecondTest/static/js/runtime-main.9ce1128a.js",
+    "runtime-main.js.map": "/FastRewordsSecondTest/static/js/runtime-main.9ce1128a.js.map",
+    "static/js/2.531f7f09.chunk.js": "/FastRewordsSecondTest/static/js/2.531f7f09.chunk.js",
+    "static/js/2.531f7f09.chunk.js.map": "/FastRewordsSecondTest/static/js/2.531f7f09.chunk.js.map",
+    "index.html": "/FastRewordsSecondTest/index.html",
+    "precache-manifest.bffb43ec140f8db7f49d0a5574451712.js": "/FastRewordsSecondTest/precache-manifest.bffb43ec140f8db7f49d0a5574451712.js",
+    "service-worker.js": "/FastRewordsSecondTest/service-worker.js",
+    "static/css/main.b3e519e8.chunk.css.map": "/FastRewordsSecondTest/static/css/main.b3e519e8.chunk.css.map",
+    "static/js/2.531f7f09.chunk.js.LICENSE.txt": "/FastRewordsSecondTest/static/js/2.531f7f09.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FastRewordsSecondTest/static/media/screenshot006.1ef1124c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ce1128a.js",
+    "static/js/2.531f7f09.chunk.js",
+    "static/css/main.b3e519e8.chunk.css",
+    "static/js/main.b7335d12.chunk.js"
+  ]
+}
